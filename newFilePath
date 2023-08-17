@@ -1,0 +1,29 @@
+# README.md
+
+This is a simple React app that displays a "Hello, World!" message.
+
+## Installation
+
+To install this app, run the following command:
+
+```
+npm install
+```
+
+## Usage
+
+To start the app, run the following command:
+
+```
+npm start
+```
+
+Once the app is running, open your web browser and navigate to http://localhost:3000 to view the app.
+
+## Contributing
+
+If you'd like to contribute to this app, please fork the repository and submit a pull request.
+
+## License
+
+This app is licensed under the MIT License.
